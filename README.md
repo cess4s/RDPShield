@@ -14,7 +14,7 @@ To ensure the script functions correctly, please follow these steps:
     .\rdpShieldTaskCreater.ps1
 
 How It Works
-    Automation: Upon successful execution, a new task is registered in the Windows Task Scheduler.
-    Interval: The script is configured to trigger automatically every 15 minutes.
+   Automation: Upon successful execution, a new task is registered in the Windows Task Scheduler.
+   Interval: The script is configured to trigger automatically every 15 minutes.
 
 Tested in Windows 10, Windows Server 2016
